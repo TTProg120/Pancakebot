@@ -712,12 +712,13 @@ section {
   height: 100%;  
   text-align: center;
   transition: 0.3s;
-  border-radius: 10px;
+  border-radius: 15px;
   background-color: #FFC226;
 }
 
 .services .service-box .logo {
-  height: 50px;
+  height: 60px;
+  margin: 10px 0;
 }
 
 
@@ -736,7 +737,7 @@ section {
 }
 
 .services a {
-  padding: 20px;
+  padding: 10px;
 }
 
 /*--------------------------------------------------------------
